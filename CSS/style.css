@@ -76,7 +76,6 @@ footer {
     width: 100%;
     margin-top: 20px;
 }
-
 .contact-form button:hover {
     background-color: #4682b4;
 }
@@ -107,8 +106,9 @@ footer {
 
 .social-media a:hover {
     background-color: #3b5998;
-    transform: scale(1.05);
+tran    sform: scale(1.05);
 }
+        
 section {
     padding: 50px;
     text-align: center;
